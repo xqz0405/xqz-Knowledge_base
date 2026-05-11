@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "007c80bcb78bf65a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f73cde6da14f2496",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfc1ee8499c7681e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodejs/工程化/npm与包管理.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "npm与包管理"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c05b9a950b898553",
+    "type": "split",
+    "children": [
+      {
+        "id": "0181c18ab2f4bd95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25a75033bac14e69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "119147741d2a451a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "019b695e1732f346",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "660ed7c5d780acb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c88c08e7186957c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb49cc313d4fb31e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "nodejs/工程化/npm与包管理.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "npm与包管理 的反向链接列表"
+            }
+          },
+          {
+            "id": "ce0cfeca7bcd5add",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "e886282a60f07964",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ba5a091fe8c58cb4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "65635581e42f52ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "dfc1ee8499c7681e",
+  "lastOpenFiles": [
+    "python/基础/异步编程.md",
+    "web 前端/JavaScript/TypeScript核心.md",
+    "go/Web框架/Gin框架.md.tmp.2280.08f9bd0b9263",
+    "go/并发编程/Channel与Select.md.tmp.2280.16db35b2cbc2",
+    "go/基础/接口与类型系统.md.tmp.2280.555dcd3d10bf",
+    "go/基础/Goroutine与调度.md.tmp.2280.2c7dc23dc400",
+    "nodejs/工程化/npm与包管理.md.tmp.2280.8e3b00d34f3a",
+    "nodejs/中间件/Koa中间件机制.md.tmp.2280.3b523cf4d19c",
+    "nodejs/框架/Express.md.tmp.2280.2f5e947f7aaf",
+    "nodejs/基础/事件循环.md.tmp.2280.99cc08bffd07",
+    "python/数据处理/Pandas基础.md.tmp.2280.3d26b5b596c6",
+    "python/Web框架/FastAPI.md.tmp.2280.7b0857dee90b",
+    "go/Web框架/Gin框架.md",
+    "go/基础/Goroutine与调度.md",
+    "nodejs/基础/事件循环.md",
+    "nodejs/工程化/npm与包管理.md",
+    "go/基础/接口与类型系统.md",
+    "未命名.canvas",
+    "web 前端/JavaScript/ES6+核心特性.md",
+    "web 前端/JavaScript/作用域与闭包.md",
+    "web 前端/JavaScript/原型与继承.md",
+    "web 前端/JavaScript/手写实现与polyfill.md",
+    "web 前端/JavaScript/设计模式.md",
+    "web 前端/JavaScript/模块化演进.md",
+    "未命名 1.canvas",
+    "web 前端/HTML-CSS/响应式设计.md",
+    "web 前端/工程化/CI与CD与部署.md",
+    "web 前端/工程化/Webpack与Vite.md",
+    "web 前端/HTML-CSS/CSS动画与过渡.md",
+    "web 前端/HTML-CSS/CSS变量与主题系统.md",
+    "web 前端/HTML-CSS/Canvas与SVG.md",
+    "web 前端/HTML-CSS/无障碍访问A11y.md",
+    "web 前端/工程化/国际化i18n.md",
+    "web 前端/工程化/代码规范ESLint与Prettier.md",
+    "web 前端/工程化/微前端.md",
+    "web 前端/网络与浏览器/浏览器存储方案.md",
+    "web 前端/JavaScript/Web Worker与并行计算.md",
+    "web 前端/工程化/前端监控与错误追踪.md"
+  ]
+}
