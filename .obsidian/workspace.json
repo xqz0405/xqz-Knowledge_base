@@ -184,6 +184,12 @@
   },
   "active": "dfc1ee8499c7681e",
   "lastOpenFiles": [
+    "web 前端/_索引.md.tmp.4632.040be2b72d9b",
+    "web 前端/跨端开发/Electron桌面开发.md",
+    "web 前端/跨端开发/Electron桌面开发.md.tmp.4632.7b2aaa1d7115",
+    "web 前端/跨端开发/uni-app跨端开发.md",
+    "web 前端/跨端开发/uni-app跨端开发.md.tmp.4632.99009c30c981",
+    "web 前端/跨端开发",
     "nodejs/工程化/npm与包管理.md",
     "python/基础/异步编程.md",
     "web 前端/JavaScript/TypeScript核心.md",
@@ -194,9 +200,6 @@
     "nodejs/工程化/npm与包管理.md.tmp.2280.8e3b00d34f3a",
     "nodejs/中间件/Koa中间件机制.md.tmp.2280.3b523cf4d19c",
     "nodejs/框架/Express.md.tmp.2280.2f5e947f7aaf",
-    "nodejs/基础/事件循环.md.tmp.2280.99cc08bffd07",
-    "python/数据处理/Pandas基础.md.tmp.2280.3d26b5b596c6",
-    "python/Web框架/FastAPI.md.tmp.2280.7b0857dee90b",
     "go/Web框架/Gin框架.md",
     "go/基础/Goroutine与调度.md",
     "nodejs/基础/事件循环.md",
@@ -218,9 +221,6 @@
     "web 前端/HTML-CSS/无障碍访问A11y.md",
     "web 前端/工程化/国际化i18n.md",
     "web 前端/工程化/代码规范ESLint与Prettier.md",
-    "web 前端/工程化/微前端.md",
-    "web 前端/网络与浏览器/浏览器存储方案.md",
-    "web 前端/JavaScript/Web Worker与并行计算.md",
-    "web 前端/工程化/前端监控与错误追踪.md"
+    "web 前端/工程化/微前端.md"
   ]
 }
