@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web 前端/综合领域/AI与前端结合.md",
+                "file": "web 前端/工程化/Monorepo管理.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI与前端结合"
+              "title": "Monorepo管理"
             }
           }
         ]
@@ -184,14 +184,23 @@
   },
   "active": "dfc1ee8499c7681e",
   "lastOpenFiles": [
+    "web 前端/JavaScript/正则表达式实战.md",
+    "web 前端/JavaScript/函数式编程.md",
+    "web 前端/框架/Nuxt.js与Vue SSR.md",
+    "web 前端/工程化/依赖安全与供应链.md",
+    "web 前端/工程化/依赖安全与供应链.md.tmp.13080.5ba692b16b11",
+    "web 前端/工程化/Monorepo管理.md",
+    "web 前端/工程化/Monorepo管理.md.tmp.13080.c3967e009252",
+    "web 前端/框架/Next.js与SSR.md",
+    "web 前端/框架/Angular核心.md",
+    "web 前端/JavaScript/正则表达式实战.md.tmp.13080.038253741b5e",
+    "web 前端/综合领域/AI与前端结合.md",
+    "web 前端/JavaScript/函数式编程.md.tmp.13080.36b513ba19cf",
     "web 前端/框架/Svelte与编译时框架.md",
     "web 前端/框架/Svelte与编译时框架.md.tmp.13080.b6505c86bd47",
-    "web 前端/框架/Nuxt.js与Vue SSR.md",
     "web 前端/框架/Nuxt.js与Vue SSR.md.tmp.13080.fb46fbf420f5",
-    "web 前端/框架/Angular核心.md",
     "web 前端/框架/Angular核心.md.tmp.13080.d781a3a2ecfc",
     "web 前端/综合领域/前端架构模式.md",
-    "web 前端/综合领域/AI与前端结合.md",
     "web 前端/综合领域/AI与前端结合.md.tmp.13080.93e5679ecd6f",
     "web 前端/Web APIs与新特性/Intersection Observer与懒加载.md",
     "web 前端/综合领域/前端架构模式.md.tmp.13080.7ead5db4e1b7",
@@ -200,13 +209,9 @@
     "web 前端/综合领域/设计系统与组件库.md.tmp.13080.b4cb2c2ee3e4",
     "web 前端/Web APIs与新特性/WebRTC实时通信.md",
     "web 前端/Web APIs与新特性/WebAssembly.md",
-    "web 前端/Web APIs与新特性/Intersection Observer与懒加载.md.tmp.13080.872aba6bee56",
     "web 前端/Web APIs与新特性/Web Components.md",
     "web 前端/Web APIs与新特性/View Transitions API.md",
     "web 前端/综合领域/BFF与Serverless.md",
-    "web 前端/Web APIs与新特性/View Transitions API.md.tmp.13080.71effd12db49",
-    "web 前端/Web APIs与新特性/WebAssembly.md.tmp.13080.1090a6667c21",
-    "web 前端/Web APIs与新特性/Web Components.md.tmp.13080.498ca2170353",
     "web 前端/CSS进阶/CSS架构方法论.md",
     "web 前端/CSS进阶/CSS-in-JS方案.md",
     "web 前端/CSS进阶/Tailwind CSS与原子化CSS.md",
@@ -215,11 +220,6 @@
     "web 前端/HTML-CSS/Canvas与SVG.md",
     "web 前端/JavaScript/ES6+核心特性.md",
     "web 前端/鸿蒙开发/鸿蒙数据持久化与网络.md",
-    "web 前端/Flutter开发/Flutter状态管理.md",
-    "web 前端/鸿蒙开发/鸿蒙分布式能力.md",
-    "web 前端/Flutter开发/Flutter测试与性能优化.md",
-    "web 前端/Flutter开发/Flutter布局与样式.md",
-    "web 前端/Flutter开发/Dart语言核心.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
