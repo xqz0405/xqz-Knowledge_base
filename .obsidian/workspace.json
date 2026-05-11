@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web 前端/工程化/依赖安全与供应链.md",
+                "file": "web 前端/_索引.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "依赖安全与供应链"
+              "title": "_索引"
             }
           }
         ]
@@ -184,28 +184,31 @@
   },
   "active": "dfc1ee8499c7681e",
   "lastOpenFiles": [
+    "README.md",
+    "web 前端/工程化/依赖安全与供应链.md",
+    "web 前端/_索引.md.tmp.12036.1778490954005",
+    "web 前端/_索引.md.tmp.12036.1778490945038",
+    "web 前端/_索引.md.tmp.12036.1778490936863",
+    "web 前端/_索引.md.tmp.12036.1778490917882",
+    "web 前端/_索引.md.tmp.12036.1778490905524",
+    "web 前端/_索引.md.tmp.12036.1778490893828",
+    "web 前端/_索引.md.tmp.12036.1778490887212",
+    "web 前端/_索引.md.tmp.12036.1778490869094",
+    "web 前端/工程化/微前端.md",
+    "web 前端/网络与浏览器/前端安全体系.md",
+    "web 前端/网络与浏览器/前端安全体系.md.tmp.12036.1778490785988",
     "web 前端/工程化/Monorepo管理.md",
     "web 前端/跨端开发/小程序开发.md",
     "web 前端/跨端开发/小程序开发.md.tmp.12036.1778490516978",
     "web 前端/JavaScript/正则表达式实战.md",
     "web 前端/JavaScript/函数式编程.md",
     "web 前端/框架/Nuxt.js与Vue SSR.md",
-    "web 前端/工程化/依赖安全与供应链.md",
-    "web 前端/工程化/依赖安全与供应链.md.tmp.13080.5ba692b16b11",
-    "web 前端/工程化/Monorepo管理.md.tmp.13080.c3967e009252",
     "web 前端/框架/Next.js与SSR.md",
     "web 前端/框架/Angular核心.md",
-    "web 前端/JavaScript/正则表达式实战.md.tmp.13080.038253741b5e",
     "web 前端/综合领域/AI与前端结合.md",
-    "web 前端/JavaScript/函数式编程.md.tmp.13080.36b513ba19cf",
     "web 前端/框架/Svelte与编译时框架.md",
-    "web 前端/框架/Svelte与编译时框架.md.tmp.13080.b6505c86bd47",
-    "web 前端/框架/Nuxt.js与Vue SSR.md.tmp.13080.fb46fbf420f5",
-    "web 前端/框架/Angular核心.md.tmp.13080.d781a3a2ecfc",
     "web 前端/综合领域/前端架构模式.md",
-    "web 前端/综合领域/AI与前端结合.md.tmp.13080.93e5679ecd6f",
     "web 前端/Web APIs与新特性/Intersection Observer与懒加载.md",
-    "web 前端/综合领域/前端架构模式.md.tmp.13080.7ead5db4e1b7",
     "web 前端/HTML-CSS/无障碍访问A11y.md",
     "web 前端/综合领域/设计系统与组件库.md",
     "web 前端/Web APIs与新特性/WebRTC实时通信.md",
@@ -217,9 +220,6 @@
     "web 前端/CSS进阶/CSS-in-JS方案.md",
     "web 前端/CSS进阶/Tailwind CSS与原子化CSS.md",
     "web 前端/HTML-CSS/CSS布局Flex与Grid.md",
-    "web 前端/HTML-CSS/CSS变量与主题系统.md",
-    "web 前端/HTML-CSS/Canvas与SVG.md",
-    "web 前端/JavaScript/ES6+核心特性.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
