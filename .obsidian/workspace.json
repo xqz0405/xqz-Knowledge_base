@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web 前端/HTML-CSS/CSS布局Flex与Grid.md",
+                "file": "web 前端/综合领域/BFF与Serverless.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSS布局Flex与Grid"
+              "title": "BFF与Serverless"
             }
           }
         ]
@@ -182,8 +182,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dfc1ee8499c7681e",
+  "active": "25a75033bac14e69",
   "lastOpenFiles": [
+    "web 前端/CSS进阶/CSS架构方法论.md",
+    "web 前端/CSS进阶/CSS架构方法论.md.tmp.13080.7110708b037d",
+    "web 前端/CSS进阶/CSS-in-JS方案.md",
+    "web 前端/CSS进阶/Tailwind CSS与原子化CSS.md",
+    "web 前端/CSS进阶/CSS-in-JS方案.md.tmp.13080.cb4a79c3cba1",
+    "web 前端/HTML-CSS/CSS布局Flex与Grid.md",
+    "web 前端/CSS进阶/Tailwind CSS与原子化CSS.md.tmp.13080.f63c1da286ad",
     "web 前端/HTML-CSS/CSS变量与主题系统.md",
     "web 前端/HTML-CSS/Canvas与SVG.md",
     "web 前端/JavaScript/ES6+核心特性.md",
@@ -206,20 +213,13 @@
     "web 前端/Flutter开发/Flutter国际化与主题.md.tmp.19012.9f638ddc075d",
     "web 前端/Flutter开发/Flutter平台通道与原生交互.md",
     "web 前端/Flutter开发/Flutter平台通道与原生交互.md.tmp.19012.f25acaec95d0",
-    "web 前端/Flutter开发/Flutter路由与导航.md.tmp.19012.6ec35cda6f31",
     "web 前端/Flutter开发/Flutter核心与Widget体系.md",
-    "web 前端/Flutter开发/Flutter状态管理.md.tmp.19012.d0fed64ab7b7",
-    "web 前端/Flutter开发/Dart语言核心.md.tmp.19012.a5bfb75fa4e7",
     "web 前端/鸿蒙开发/鸿蒙元服务与卡片开发.md",
     "web 前端/鸿蒙开发/鸿蒙路由与导航.md",
     "web 前端/鸿蒙开发/ArkTS语言核心.md",
     "web 前端/跨端开发/uni-app跨端开发.md",
     "web 前端/Flutter开发/Flutter网络与数据持久化.md",
     "web 前端/Flutter开发/Flutter动画与自定义绘制.md",
-    "web 前端/跨端开发/Electron桌面开发.md",
-    "web 前端/综合领域/前端算法与数据结构.md",
-    "web 前端/跨端开发/Tauri桌面开发.md",
-    "web 前端/跨端开发/React Native移动开发.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
