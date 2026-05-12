@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web 前端/跨端开发/小程序开发.md",
+                "file": "web 前端/工程化/API Mock与接口管理.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "小程序开发"
+              "title": "API Mock与接口管理"
             }
           }
         ]
@@ -182,8 +182,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25a75033bac14e69",
+  "active": "dfc1ee8499c7681e",
   "lastOpenFiles": [
+    "web 前端/框架/React Server Components.md",
+    "web 前端/框架/React Server Components.md.tmp.13516.fd9494908b10",
+    "web 前端/Web APIs与新特性/Fetch API与请求模式.md",
+    "web 前端/Web APIs与新特性/Fetch API与请求模式.md.tmp.13516.baf7ce933209",
+    "web 前端/框架/Astro与内容站框架.md",
+    "web 前端/框架/Astro与内容站框架.md.tmp.13516.0253f0653487",
+    "web 前端/工程化/代码分割与Tree Shaking.md",
+    "web 前端/JavaScript/内存管理与垃圾回收.md",
+    "web 前端/工程化/pnpm与现代包管理.md",
+    "web 前端/工程化/pnpm与现代包管理.md.tmp.13516.544d1b9a1c8b",
+    "web 前端/工程化/API Mock与接口管理.md",
+    "web 前端/工程化/API Mock与接口管理.md.tmp.13516.eabeab0cfbbc",
+    "web 前端/工程化/代码分割与Tree Shaking.md.tmp.13516.4b86b7dda1a2",
+    "web 前端/JavaScript/Proxy与Reflect.md",
+    "web 前端/JavaScript/内存管理与垃圾回收.md.tmp.13516.ca5ec132fd4f",
+    "web 前端/跨端开发/小程序开发.md",
     "web 前端/JavaScript/错误处理与异常模式.md",
     "web 前端/JavaScript/错误处理与异常模式.md.tmp.13516.250527895a97",
     "web 前端/JavaScript/迭代器与生成器.md",
@@ -191,21 +207,12 @@
     "web 前端/HTML-CSS/移动端适配方案.md",
     "web 前端/HTML-CSS/移动端适配方案.md.tmp.13516.f5be3d5fd94d",
     "web 前端/CSS进阶/CSS预处理器.md",
-    "web 前端/CSS进阶/CSS预处理器.md.tmp.13516.41f1bf451072",
-    "web 前端/JavaScript/Proxy与Reflect.md",
-    "web 前端/JavaScript/Proxy与Reflect.md.tmp.13516.4249f7bd4850",
     "web 前端/_索引.md",
     "README.md",
     "web 前端/工程化/依赖安全与供应链.md",
-    "web 前端/_索引.md.tmp.12036.1778490954005",
-    "web 前端/_索引.md.tmp.12036.1778490945038",
-    "web 前端/_索引.md.tmp.12036.1778490936863",
-    "web 前端/_索引.md.tmp.12036.1778490917882",
-    "web 前端/_索引.md.tmp.12036.1778490905524",
     "web 前端/工程化/微前端.md",
     "web 前端/网络与浏览器/前端安全体系.md",
     "web 前端/工程化/Monorepo管理.md",
-    "web 前端/跨端开发/小程序开发.md",
     "web 前端/JavaScript/正则表达式实战.md",
     "web 前端/JavaScript/函数式编程.md",
     "web 前端/框架/Nuxt.js与Vue SSR.md",
@@ -213,13 +220,6 @@
     "web 前端/框架/Angular核心.md",
     "web 前端/综合领域/AI与前端结合.md",
     "web 前端/框架/Svelte与编译时框架.md",
-    "web 前端/综合领域/前端架构模式.md",
-    "web 前端/Web APIs与新特性/Intersection Observer与懒加载.md",
-    "web 前端/HTML-CSS/无障碍访问A11y.md",
-    "web 前端/综合领域/设计系统与组件库.md",
-    "web 前端/Web APIs与新特性/WebRTC实时通信.md",
-    "web 前端/Web APIs与新特性/WebAssembly.md",
-    "web 前端/Web APIs与新特性/Web Components.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
