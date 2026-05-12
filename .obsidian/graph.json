@@ -5,68 +5,18 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:\"web 前端/框架\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084263
-      }
-    },
-    {
-      "query": "path:\"web 前端/CSS进阶\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "path:\"web 前端/Flutter开发\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
-      "query": "path:\"web 前端/HTML-CSS\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6072278
-      }
-    },
-    {
-      "query": "path:\"web 前端/Web APIs与新特性\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6059222
-      }
-    },
-    {
-      "query": "path:\"web 前端/JavaScript\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 9657558
-      }
-    },
-    {
-      "query": "path:",
-      "color": {
-        "a": 1,
-        "rgb": 6053078
-      }
-    }
-  ],
+  "collapse-color-groups": true,
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1,
-  "nodeSizeMultiplier": 0.891145833333333,
-  "lineSizeMultiplier": 0.559375,
-  "collapse-forces": false,
-  "centerStrength": 0.5,
-  "repelStrength": 0,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 500,
-  "scale": 0.7514342322277532,
-  "close": false
+  "linkDistance": 250,
+  "scale": 0.7514342322277492,
+  "close": true
 }
