@@ -1,0 +1,7 @@
+# Obsidian 运行时状态（每次开关都会变，无提交价值）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+
+# Obsidian 插件缓存
+.obsidian/plugins/obsidian-git/data.json
