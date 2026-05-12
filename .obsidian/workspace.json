@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web 前端/Web APIs与新特性/浏览器高级API.md",
+                "file": "web 前端/HTML-CSS/CSS选择器与优先级.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "浏览器高级API"
+              "title": "CSS选择器与优先级"
             }
           }
         ]
@@ -184,9 +184,15 @@
   },
   "active": "fe2c88ca61662439",
   "lastOpenFiles": [
-    "web 前端/Web APIs与新特性/Notification与Push API.md",
-    "web 前端/Web APIs与新特性/浏览器高级API.md",
+    "web 前端/网络与浏览器/HTTP与缓存策略.md",
+    "web 前端/HTML-CSS/CSS选择器与优先级.md.tmp.8412.4e34d9b4d9cb",
     "web 前端/Web APIs与新特性/Clipboard API与剪贴板操作.md",
+    "web 前端/网络与浏览器/HTTP与缓存策略.md.tmp.8412.b33b49586195",
+    "web 前端/_索引.md.tmp.8136.7efafb09ec58",
+    "web 前端/Web APIs与新特性/浏览器高级API.md",
+    "web 前端/Web APIs与新特性/Web Share API.md",
+    "web 前端/Web APIs与新特性/Web Share API.md.tmp.8136.02347ccbc8ce",
+    "web 前端/Web APIs与新特性/Notification与Push API.md",
     "web 前端/Web APIs与新特性/Clipboard API与剪贴板操作.md.tmp.8136.1b4a16a8f617",
     "web 前端/Web APIs与新特性/Notification与Push API.md.tmp.8136.e228e8794ec7",
     "nodejs/框架/Express.md",
@@ -198,14 +204,11 @@
     "web 前端/网络与浏览器/HTTP2与HTTP3.md.tmp.8136.97e1fe05cbf9",
     "web 前端/综合领域/前端算法与数据结构.md",
     "web 前端/_索引.md.tmp.8136.cc31eca1684a",
-    "web 前端/综合领域/前端错误边界与降级策略.md.tmp.8136.19cf23f3e28a",
     "web 前端/JavaScript/TypeScript核心.md",
     "web 前端/综合领域/前端架构模式.md",
     "web 前端/综合领域/前端3D开发与Three.js.md",
-    "web 前端/综合领域/前端3D开发与Three.js.md.tmp.8136.7713590ed6e8",
     "web 前端/综合领域/可视化与图表库.md",
     "web 前端/综合领域/低代码与搭建平台.md",
-    "web 前端/综合领域/可视化与图表库.md.tmp.8136.36e6b19ac96b",
     "web 前端/CSS进阶/CSS逻辑属性与国际化布局.md",
     "web 前端/JavaScript/Proxy与Reflect.md",
     "web 前端/JavaScript/Web Worker与并行计算.md",
@@ -217,9 +220,6 @@
     "web 前端/Web APIs与新特性/Web Components.md",
     "web 前端/Web APIs与新特性/WebAssembly.md",
     "web 前端/Web APIs与新特性/WebGL与WebGPU.md",
-    "web 前端/Web APIs与新特性/WebRTC实时通信.md",
-    "web 前端/CSS进阶/CSS Houdini与自定义绘制.md",
-    "web 前端/_索引.md.tmp.8136.b72c96a79d88",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
