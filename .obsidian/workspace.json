@@ -6,7 +6,7 @@
       {
         "id": "aa81c69bc47ca59a",
         "type": "tabs",
-        "dimension": 68.33756345177665,
+        "dimension": 79.56852791878173,
         "children": [
           {
             "id": "5fc39b0a9d018cb4",
@@ -14,37 +14,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web 前端/JavaScript/ES6+核心特性.md",
+                "file": "web 前端/HTML-CSS/Canvas与SVG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ES6+核心特性"
+              "title": "Canvas与SVG"
             },
-            "group": "38c538b773fc50ca"
+            "group": "625e9e2cd40948e3"
           }
         ]
       },
       {
-        "id": "e815905a5b3a9fc5",
+        "id": "a4158c25336c1d57",
         "type": "tabs",
-        "dimension": 31.66243654822335,
+        "dimension": 20.431472081218274,
         "children": [
           {
-            "id": "20e3a7545347c326",
+            "id": "0902f40e737c74d3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "web 前端/JavaScript/ES6+核心特性.md",
+                "file": "web 前端/HTML-CSS/Canvas与SVG.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ES6+核心特性 的大纲"
+              "title": "Canvas与SVG 的大纲"
             },
-            "group": "38c538b773fc50ca"
+            "group": "625e9e2cd40948e3"
           }
         ]
       }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodejs/工程化/npm与包管理.md",
+                "file": "web 前端/HTML-CSS/Canvas与SVG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "npm与包管理 的反向链接列表"
+              "title": "Canvas与SVG 的反向链接列表"
             }
           },
           {
@@ -207,8 +207,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5fc39b0a9d018cb4",
+  "active": "0902f40e737c74d3",
   "lastOpenFiles": [
+    "nodejs/基础/异步编程.md",
+    "nodejs/基础/异步编程.md.tmp.19576.e82f882cb32b",
+    "nodejs/综合领域",
+    "nodejs/架构与运维",
+    "nodejs/安全",
+    "nodejs/网络与通信",
+    "nodejs/数据库与存储",
+    "web 前端/JavaScript/ES6+核心特性.md",
     "web 前端/Web APIs与新特性/Notification与Push API.md",
     "web 前端/Web APIs与新特性/View Transitions API.md",
     "web 前端/Web APIs与新特性/Web Audio与多媒体API.md",
@@ -233,18 +241,10 @@
     "Vue Router.md",
     "web 前端/框架/Vue核心.md",
     "web 前端/框架/Vue生态Router与Pinia.md",
-    "web 前端/框架/React生态Router与Query.md",
-    "React生态Router与状态管理.md",
     "web 前端/HTML-CSS/CSS布局Flex与Grid.md.tmp.8412.d70461bf7c89",
     "web 前端/HTML-CSS/CSS动画与过渡.md.tmp.8412.b6c096c8869e",
     "web 前端/工程化/代码规范ESLint与Prettier.md.tmp.8412.3ebc679ce6d3",
     "web 前端/框架/Vue核心.md.tmp.8412.beb093a13921",
-    "web 前端/框架/Vue3响应式原理.md.tmp.8412.28889611beb9",
-    "web 前端/工程化/Babel与AST.md.tmp.8412.8ca7ffbea337",
-    "web 前端/JavaScript/ES6+核心特性.md.tmp.8412.5b5a2b3a5cd3",
-    "web 前端/HTML-CSS/响应式设计.md.tmp.8412.6493e7548ecd",
-    "web 前端/框架/Next.js与SSR.md.tmp.8412.63799d272e4e",
-    "web 前端/JavaScript/this指向与绑定.md.tmp.8412.06a3feae43d9",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
