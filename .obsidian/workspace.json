@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "aa81c69bc47ca59a",
+        "id": "a2953d34f66d9080",
         "type": "tabs",
-        "dimension": 79.56852791878173,
         "children": [
           {
-            "id": "5fc39b0a9d018cb4",
+            "id": "7bba905a963bd49d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodejs/网络与通信/WebSocket与实时通信.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "WebSocket与实时通信"
-            },
-            "group": "625e9e2cd40948e3"
-          }
-        ]
-      },
-      {
-        "id": "a4158c25336c1d57",
-        "type": "tabs",
-        "dimension": 20.431472081218274,
-        "children": [
-          {
-            "id": "0902f40e737c74d3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "nodejs/网络与通信/WebSocket与实时通信.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "WebSocket与实时通信 的大纲"
-            },
-            "group": "625e9e2cd40948e3"
+              "title": "新标签页"
+            }
           }
         ]
       }
@@ -119,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodejs/网络与通信/WebSocket与实时通信.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "WebSocket与实时通信 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -207,8 +177,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5fc39b0a9d018cb4",
+  "active": "7bba905a963bd49d",
   "lastOpenFiles": [
+    "templates/_模板_编程语言.md",
+    "Vue Router.md",
+    "python/基础/装饰器与闭包.md",
+    "python/基础/异步编程.md",
+    "nodejs/数据库与存储/文件系统操作.md",
+    "java",
+    "nodejs/综合领域/BFF与API网关.md",
+    "web 前端/综合领域/BFF与Serverless.md",
+    "nodejs/综合领域/架构模式与分层.md",
+    "nodejs/网络与通信/WebSocket与实时通信.md",
     "nodejs/网络与通信/RESTful API设计.md",
     "nodejs/网络与通信/HTTP服务构建.md",
     "nodejs/基础/Cluster与Worker Threads.md",
@@ -231,20 +211,10 @@
     "nodejs/框架/Express.md.tmp.19576.2032ee05649d",
     "nodejs/基础/事件循环.md.tmp.19576.51f05b268d93",
     "nodejs/_索引.md.tmp.19576.39592280df69",
-    "nodejs/综合领域/Node.js最佳实践.md",
     "nodejs/综合领域/Node.js最佳实践.md.tmp.19576.3799cd5cfa68",
-    "nodejs/综合领域/架构模式与分层.md",
     "nodejs/综合领域/架构模式与分层.md.tmp.19576.41c7e9c6a92c",
-    "nodejs/综合领域/Node.js设计模式.md",
     "nodejs/综合领域/Node.js设计模式.md.tmp.19576.35290e8fd550",
-    "nodejs/架构与运维/生产环境运维.md",
     "nodejs/架构与运维/生产环境运维.md.tmp.19576.02e33248fb68",
-    "nodejs/架构与运维/Serverless与函数计算.md",
-    "nodejs/架构与运维/Serverless与函数计算.md.tmp.19576.3cd3cbd59e47",
-    "nodejs/架构与运维/微服务架构.md",
-    "nodejs/架构与运维/性能调优.md",
-    "nodejs安全/安全审计与合规.md",
-    "nodejs/网络与通信/消息队列与事件驱动.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
