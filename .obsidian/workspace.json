@@ -9,32 +9,17 @@
         "dimension": 83.31218274111674,
         "children": [
           {
-            "id": "d1b381c7794e2291",
+            "id": "bb5f2dc290d45ed3",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "关系图谱"
-            }
-          },
-          {
-            "id": "bb5f2dc290d45ed3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python/Web开发/FastAPI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FastAPI"
             },
             "group": "c31c6115357be598"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8187dd20d56232d7",
@@ -130,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/Web开发/FastAPI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "FastAPI 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -220,42 +204,42 @@
   },
   "active": "bb5f2dc290d45ed3",
   "lastOpenFiles": [
-    "python/Web框架/FastAPI.md",
+    "python/Web开发/WebSocket与实时通信.md",
+    "python/Web开发/WebSocket与实时通信.md.tmp.14860.8a433c21ff08",
+    "python/Web开发/模板引擎与前端集成.md",
+    "python/Web开发/模板引擎与前端集成.md.tmp.14860.989e8d002cf7",
+    "python/Web开发/Pydantic与数据验证.md",
+    "python/Web开发/Pydantic与数据验证.md.tmp.14860.0df313409826",
     "python/Web开发/FastAPI.md",
+    "python/Web开发/Django REST Framework.md",
+    "python/Web开发/Django REST Framework.md.tmp.14860.9f97a4060a8d",
+    "python/Web开发/Flask.md",
+    "python/Web开发/Flask.md.tmp.14860.addf46150f8d",
+    "python/Web开发/Django.md",
+    "python/Web开发/Django.md.tmp.14860.5aba2034d052",
+    "python/_索引.md.tmp.14860.bb7105c2df3d",
+    "python/基础核心/函数式编程.md",
+    "python/基础核心/函数式编程.md.tmp.14860.11a4848c4ea7",
+    "python/基础核心/面向对象进阶.md",
+    "python/基础核心/面向对象进阶.md.tmp.14860.cd8ba70b7031",
+    "python/Web框架/FastAPI.md",
     "python/基础核心/GIL与并发模型.md",
     "python/基础核心/错误处理与调试.md",
     "python/基础核心/错误处理与调试.md.tmp.14860.19726d30633d",
     "python/基础核心/装饰器与闭包.md",
     "python/基础核心/生成器与迭代器.md",
-    "python/基础核心/生成器与迭代器.md.tmp.14860.2bdc61cd90dd",
     "python/基础核心/异步编程.md",
     "python/基础核心/数据模型与魔法方法.md",
     "python/基础核心/模块与包管理.md",
     "python/基础核心/类型系统与类型提示.md",
     "python/基础/装饰器与闭包.md",
-    "python/基础核心/模块与包管理.md.tmp.14860.ea547bfa1009",
     "python/基础/异步编程.md",
-    "python/基础核心/类型系统与类型提示.md.tmp.14860.95f1898d8aa4",
-    "python/基础核心/数据模型与魔法方法.md.tmp.14860.a280c2f0d352",
-    "python/_索引.md.tmp.14860.c56cde6b8292",
-    "python/基础核心/GIL与并发模型.md.tmp.14860.e7b562cd076c",
     "python/数据科学与分析/Pandas基础.md",
-    "python/综合领域",
-    "python/图像处理与计算机视觉",
-    "python/工程化",
     "nodejs安全/Web安全防护.md",
     "nodejs安全/加密与数据安全.md",
     "nodejs安全/安全审计与合规.md",
     "templates/_模板_编程语言.md",
     "Vue Router.md",
-    "nodejs/数据库与存储/文件系统操作.md",
-    "nodejs/综合领域/BFF与API网关.md",
-    "web 前端/综合领域/BFF与Serverless.md",
-    "nodejs/综合领域/架构模式与分层.md",
-    "nodejs/网络与通信/WebSocket与实时通信.md",
-    "nodejs/网络与通信/RESTful API设计.md",
-    "nodejs/网络与通信/HTTP服务构建.md",
-    "nodejs/基础/Cluster与Worker Threads.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
