@@ -184,6 +184,11 @@
   },
   "active": "fe2c88ca61662439",
   "lastOpenFiles": [
+    "web 前端/网络与浏览器/跨域解决方案.md.tmp.8412.be6c89f84f41",
+    "web 前端/网络与浏览器/浏览器渲染原理.md.tmp.8412.6cee2c5906f6",
+    "web 前端/框架/React核心.md.tmp.8412.c4e6a97acc5c",
+    "web 前端/JavaScript/模块化演进.md.tmp.8412.2e6f2aa990ed",
+    "web 前端/JavaScript/原型与继承.md.tmp.8412.bb7451cecd58",
     "web 前端/网络与浏览器/HTTP与缓存策略.md",
     "web 前端/HTML-CSS/CSS选择器与优先级.md.tmp.8412.4e34d9b4d9cb",
     "web 前端/Web APIs与新特性/Clipboard API与剪贴板操作.md",
@@ -198,12 +203,8 @@
     "nodejs/框架/Express.md",
     "web 前端/网络与浏览器/HTTP2与HTTP3.md",
     "web 前端/综合领域/前端错误边界与降级策略.md",
-    "web 前端/_索引.md.tmp.8136.e64d0bdb4567",
     "web 前端/网络与浏览器/WebTransport实时通信.md",
-    "web 前端/网络与浏览器/WebTransport实时通信.md.tmp.8136.d6b5def93424",
-    "web 前端/网络与浏览器/HTTP2与HTTP3.md.tmp.8136.97e1fe05cbf9",
     "web 前端/综合领域/前端算法与数据结构.md",
-    "web 前端/_索引.md.tmp.8136.cc31eca1684a",
     "web 前端/JavaScript/TypeScript核心.md",
     "web 前端/综合领域/前端架构模式.md",
     "web 前端/综合领域/前端3D开发与Three.js.md",
@@ -219,7 +220,6 @@
     "web 前端/Web APIs与新特性/Web Audio与多媒体API.md",
     "web 前端/Web APIs与新特性/Web Components.md",
     "web 前端/Web APIs与新特性/WebAssembly.md",
-    "web 前端/Web APIs与新特性/WebGL与WebGPU.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
