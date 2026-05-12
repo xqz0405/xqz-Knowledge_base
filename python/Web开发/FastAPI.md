@@ -163,8 +163,20 @@ async def get_user(user_id: int, db: AsyncSession = Depends(get_db)):
 **Q5: FastAPI 中如何实现中间件？**
 > 使用 `@app.middleware("http")` 装饰器定义，在请求到达路由前和响应返回后执行自定义逻辑（如日志、CORS、认证）。内部机制基于 Starlette 中间件，调用 `await call_next(request)` 将请求传递给下一层处理。
 
+**Q6: FastAPI 的 `APIRouter` 有什么作用？如何组织大型项目？**
+> `APIRouter` 是路由分组工具，类似 Flask 的蓝图。它将相关路由组织到独立模块中，设置公共前缀（`prefix="/api/v1"`）、标签（`tags=["users"]`）和依赖（`dependencies=[Depends(verify_token)]`）。大型项目按业务域拆分 Router：`users.router`、`orders.router`，在主 app 中 `app.include_router()` 注册。每个 Router 可以有独立的依赖、中间件和响应模型。
+
+**Q7: FastAPI 如何处理文件上传？**
+> 使用 `UploadFile` 类型注解：`file: UploadFile = File(...)`。`UploadFile` 是 SpooledTemporaryFile 的封装，大文件自动写入磁盘而非全部加载到内存。属性：`file.filename`（原始文件名）、`file.content_type`（MIME 类型）、`file.file`（文件对象）。多文件用 `files: list[UploadFile]`。读取内容：`contents = await file.read()` 或 `shutil.copyfileobj(file.file, dest)`。
+
+**Q8: FastAPI 如何实现后台任务？**
+> 两种方式：1) `BackgroundTasks`——在响应返回后执行轻量任务，`background_tasks.add_task(func, *args)`，适合发送邮件/日志等简单操作；2) Celery/ARQ——独立的工作队列，支持重试/定时/监控，适合耗时任务（数据处理/报表生成）。BackgroundTasks 是进程内的，随服务重启丢失；Celery 是持久化的，任务不丢失。轻量用前者，重量用后者。
+
 ---
 
 **相关链接：**
 - [[异步编程]]
-- FastAPI 官方文档：https://fastapi.tiangolo.com/
+- [[Pydantic与数据验证]]
+- [[Web中间件与请求处理]]
+- [[Django]]
+- [FastAPI 官方文档](https://fastapi.tiangolo.com/)

@@ -32,13 +32,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/Web开发/FastAPI.md",
+                "file": "python/Web开发/Django REST Framework.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "FastAPI 的大纲"
+              "title": "Django REST Framework 的大纲"
             },
             "group": "c31c6115357be598"
           }
@@ -204,28 +204,29 @@
   },
   "active": "bb5f2dc290d45ed3",
   "lastOpenFiles": [
+    "python/Web开发/Django REST Framework.md",
+    "python/Web开发/FastAPI.md",
+    "python/Web开发/Flask.md",
+    "python/Web开发/FastAPI.md.tmp.14860.5916d0eb77ef",
+    "python/Web开发/Pydantic与数据验证.md",
+    "python/Web开发/Web中间件与请求处理.md",
     "python/Web开发/WebSocket与实时通信.md",
+    "python/基础核心/异步编程.md.tmp.14860.e77db1a59a1d",
+    "python/基础核心/装饰器与闭包.md.tmp.14860.1288a2751bc9",
+    "python/_索引.md.tmp.14860.c74dd89db84e",
+    "python/Web开发/Web中间件与请求处理.md.tmp.14860.fc773a833d52",
     "python/Web开发/WebSocket与实时通信.md.tmp.14860.8a433c21ff08",
     "python/Web开发/模板引擎与前端集成.md",
     "python/Web开发/模板引擎与前端集成.md.tmp.14860.989e8d002cf7",
-    "python/Web开发/Pydantic与数据验证.md",
     "python/Web开发/Pydantic与数据验证.md.tmp.14860.0df313409826",
-    "python/Web开发/FastAPI.md",
-    "python/Web开发/Django REST Framework.md",
     "python/Web开发/Django REST Framework.md.tmp.14860.9f97a4060a8d",
-    "python/Web开发/Flask.md",
     "python/Web开发/Flask.md.tmp.14860.addf46150f8d",
     "python/Web开发/Django.md",
-    "python/Web开发/Django.md.tmp.14860.5aba2034d052",
-    "python/_索引.md.tmp.14860.bb7105c2df3d",
     "python/基础核心/函数式编程.md",
-    "python/基础核心/函数式编程.md.tmp.14860.11a4848c4ea7",
     "python/基础核心/面向对象进阶.md",
-    "python/基础核心/面向对象进阶.md.tmp.14860.cd8ba70b7031",
     "python/Web框架/FastAPI.md",
     "python/基础核心/GIL与并发模型.md",
     "python/基础核心/错误处理与调试.md",
-    "python/基础核心/错误处理与调试.md.tmp.14860.19726d30633d",
     "python/基础核心/装饰器与闭包.md",
     "python/基础核心/生成器与迭代器.md",
     "python/基础核心/异步编程.md",
@@ -238,8 +239,6 @@
     "nodejs安全/Web安全防护.md",
     "nodejs安全/加密与数据安全.md",
     "nodejs安全/安全审计与合规.md",
-    "templates/_模板_编程语言.md",
-    "Vue Router.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
