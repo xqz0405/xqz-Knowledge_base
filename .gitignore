@@ -5,3 +5,6 @@
 
 # Obsidian 插件缓存
 .obsidian/plugins/obsidian-git/data.json
+
+# Claude memory
+Claude记忆/
