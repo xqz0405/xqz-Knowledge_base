@@ -6,12 +6,13 @@ metadata:
 ---
 
 基于 Obsidian 知识库构建的 Astro 静态网站，已部署到阿里云服务器。
+- 知识库仓库：https://github.com/xqz0405/xqz-Knowledge_base
+- 网站仓库：https://github.com/xqz0405/xqz-web-site
 
 **Why:** 用户希望将知识库以网站形式公开展示
 
 **How to apply:**
-- 项目仓库：`xqz0405/xqz-web-site`（GitHub），知识库作为 git submodule 引入
-- 本地项目位于 `E:\xqzApp\xqz-web\xqz-web-site\`
+- 项目仓库：https://github.com/xqz0405/xqz-web-site，知识库作为 git submodule 引入
 - 网站地址：`https://docs.xqzweb.xyz`
 - 阿里云 ECS：2核2G3Mbps，宝塔面板管理，Nginx 托管静态文件
 - 域名：`xqzweb.xyz`，子域名 `docs` 通过阿里云 DNS A 记录解析

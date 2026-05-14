@@ -5,7 +5,7 @@ metadata:
   type: project
 ---
 
-Obsidian 技术知识库，位于 `E:\xqzApp\xqz-web\xqz-web`。
+Obsidian 技术知识库，仓库 https://github.com/xqz0405/xqz-Knowledge_base。
 
 **Why:** 用户需要一个系统化的技术知识库来整理和查阅编程技术知识
 
